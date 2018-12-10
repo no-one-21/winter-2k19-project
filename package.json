@@ -1,0 +1,11 @@
+{
+  "name": "winter-2k19-project",
+  "version": "1.0.0",
+  "description": "It is a site made by students for students NIT Hamirpur. In its initial stage it will have listed features: - [] Login portal for student - [] Messaging service - [] Study material zone - [] Ranklist (personal)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
