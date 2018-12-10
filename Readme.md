@@ -1,4 +1,4 @@
-###Student World
+### Student World
 It is a site made by students for students NIT Hamirpur. In its initial stage it will have listed features:
 - [] Login portal for student
 - [] Messaging service
